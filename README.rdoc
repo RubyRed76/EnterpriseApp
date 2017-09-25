@@ -1,19 +1,56 @@
-== README
+Enterprise App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+==============
 
-Things you may want to cover:
+Powerful Software
+-----------------
 
-* Ruby version
+### Welcome to the repository
 
-* System dependencies
+Feel free to access [my portfolio](http://portfolio.com).
 
-* Configuration
+> ## Blockquote Headline
+>
+> Sentence...
+>
+> Here's another sentence with last word in *Italics*
+> 2 Stars would make it **bold!**
 
-* Database creation
 
-* Database initialization
+We can also do this outside the **Blockquote**
+
+Bullet Points
+### Crazy good software
+* Rapid development
++ Tested
+- 24/7 support
+
+All 3 of these will look the same
+
+Numbers 
+### Reasons to choose us
+1. Price
+2. Precision
+3. Performance
+
+
+Integrate code into the Readme
+This is what ruby code would look like `puts 'Hello World'`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 * How to run the test suite
 
